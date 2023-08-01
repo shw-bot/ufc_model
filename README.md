@@ -1,4 +1,4 @@
-# UFC Fight Outcome Prediction
+# UFC Fight Prediction
 
 ## Project Overview
 This project analyzes data from the Ultimate Fighting Championship (UFC) to build machine learning models for predicting the outcomes of future fights. The primary objective is to achieve high accuracy in predicting fight outcomes based on fighter attributes. The current model demonstrates an impressive 83% accuracy rate.
@@ -44,7 +44,7 @@ This project analyzes data from the Ultimate Fighting Championship (UFC) to buil
 - Super Heavyweight: 265 lbs< (not yet officially recognized)
 
 ## Model Performance
-So far, the model has achieved an impressive 83% accuracy rate in predicting fight outcomes and has only continued to improve each week.
+So far, the model has achieved an 83% accuracy rate in predicting fight outcomes and has only continued to improve each week.
 
 ## Contributing
 This project is not intended for others to run, but if you have any feedback, questions, or ideas related to this project, please feel free to reach out to me!
