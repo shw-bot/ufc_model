@@ -4,8 +4,8 @@
 This project analyzes data from the Ultimate Fighting Championship (UFC) to build machine learning models for predicting the outcomes of future fights. The primary objective is to achieve high accuracy in predicting fight outcomes based on fighter attributes. The current model demonstrates an impressive 83% accuracy rate.
 
 ## Project Structure
-- `data`: This directory contains the raw data used to create a SQL database and data used to test the model
-- `notebooks`: Jupyter notebooks used for pre-processing, exploratory analysis, model building and testing
+- `Data`: This directory contains the raw data used to create a SQL database and data used to test the model
+- `Notebooks`: Jupyter notebooks used for pre-processing, exploratory analysis, model building and testing
 - `trained_model.pkl`: The trained Random Forest model
 - `.gitignore`: The files to be ignored
 
